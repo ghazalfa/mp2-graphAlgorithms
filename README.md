@@ -1,5 +1,7 @@
 **MP2 / CPEN 221 / Fall 2022**
 
+notion link - https://cpen221ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-eeac9d286c9e46b1838ebdeacbd5a123
+
 # Graphs and Games
 
 In this assignment, you will implement the Graph ADT and several associated operations. You will then integrate this ADT with the Kamino game, which involves hunting for a missing spaceship and then gathering spice after recovering the spaceship.
